@@ -1,1 +1,3 @@
-Python 연습 코드들
+# Python Practice
+
+Python Traning

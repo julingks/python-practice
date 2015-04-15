@@ -3,14 +3,14 @@
 
 
 def remainder(a,b):
-	q = a // b   # //는 끝수를 버리는 나누
-	r = a - q*b
-	return r
+    q = a // b   # //는 끝수를 버리는 나누기
+    r = a - q*b
+    return r
 
 def divide(a,b):
-	q = a // b
-	r = a- q*b
-	return (q, r)
+    q = a // b
+    r = a- q*b
+    return (q, r)
 
 
 print remainder(36, 15)  # 7
