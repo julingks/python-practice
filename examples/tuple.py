@@ -22,7 +22,7 @@ print person
 a = ()
 b = ('item',)
 c = 'item',
-d = ('item')  # this is not tuple!!! 
+d = ('item')  # this is not tuple!!!
 
 print a
 print b

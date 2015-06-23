@@ -2,5 +2,5 @@
 
 Python Traning
 
-## PYthon by Example
+## Python by Example
 * [http://www.lightbird.net/py-by-example/](http://www.lightbird.net/py-by-example/)
